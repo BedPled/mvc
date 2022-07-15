@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "require": {
+        "monolog/monolog": "^2.5",
+        "twig/twig": "3.x"
+    }
+}
